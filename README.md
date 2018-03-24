@@ -5,21 +5,21 @@ Python网络编程基础读书笔记。
 用来整理此书中的脚本。
 
 
-目录
+#目录
 
-第一部分 底层网络  
+##第一部分 底层网络  
 CH1 --- 客户/服务器网络介绍  
 CH2 --- 网络客户端  
 CH3 --- 网络服务器  
 CH4 --- 域名系统  
 CH5 --- 高级网络操作  
 
-第二部分 Web Service  
+##第二部分 Web Service  
 CH6 --- web客户端访问  
 CH7 --- 解析HTML和XHTML  
 CH8 --- XML和XML-RPC  
 
-第三部分 E-mail服务  
+#第三部分 E-mail服务  #
 CH9 --- E-mail的编写和编码  
 CH10 --- SMTP  
 CH11 --- POP  
